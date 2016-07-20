@@ -40,3 +40,24 @@ C:\Documents and Settings\Laboratorio.LABORATO-6A7377\Meus documentos\software\E
 C:\Documents and Settings\Laboratorio.LABORATO-6A7377\Meus documentos\software\EEG\src\PACI\PACI\obj\Debug\GenerateResource.write.1.tlog
 C:\Documents and Settings\Laboratorio.LABORATO-6A7377\Meus documentos\software\EEG\src\PACI\PACI\obj\Debug\PACI.exe
 C:\Documents and Settings\Laboratorio.LABORATO-6A7377\Meus documentos\software\EEG\src\PACI\PACI\obj\Debug\PACI.pdb
+C:\Users\LAB\Documents\Projects\PACI\PACI\bin\Debug\PACI.exe.config
+C:\Users\LAB\Documents\Projects\PACI\PACI\bin\Debug\PACI.exe
+C:\Users\LAB\Documents\Projects\PACI\PACI\bin\Debug\PACI.pdb
+C:\Users\LAB\Documents\Projects\PACI\PACI\bin\Debug\mscorlib.dll
+C:\Users\LAB\Documents\Projects\PACI\PACI\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\LAB\Documents\Projects\PACI\PACI\bin\Debug\normidna.nlp
+C:\Users\LAB\Documents\Projects\PACI\PACI\bin\Debug\normnfc.nlp
+C:\Users\LAB\Documents\Projects\PACI\PACI\bin\Debug\normnfd.nlp
+C:\Users\LAB\Documents\Projects\PACI\PACI\bin\Debug\normnfkc.nlp
+C:\Users\LAB\Documents\Projects\PACI\PACI\bin\Debug\normnfkd.nlp
+C:\Users\LAB\Documents\Projects\PACI\PACI\obj\Debug\PACI.csprojResolveAssemblyReference.cache
+C:\Users\LAB\Documents\Projects\PACI\PACI\obj\Debug\PACI.Form1.resources
+C:\Users\LAB\Documents\Projects\PACI\PACI\obj\Debug\PACI.FormArea.resources
+C:\Users\LAB\Documents\Projects\PACI\PACI\obj\Debug\PACI.FormGoal.resources
+C:\Users\LAB\Documents\Projects\PACI\PACI\obj\Debug\PACI.FormRank.resources
+C:\Users\LAB\Documents\Projects\PACI\PACI\obj\Debug\PACI.FormText.resources
+C:\Users\LAB\Documents\Projects\PACI\PACI\obj\Debug\PACI.FormThanks.resources
+C:\Users\LAB\Documents\Projects\PACI\PACI\obj\Debug\PACI.Properties.Resources.resources
+C:\Users\LAB\Documents\Projects\PACI\PACI\obj\Debug\PACI.csproj.GenerateResource.Cache
+C:\Users\LAB\Documents\Projects\PACI\PACI\obj\Debug\PACI.exe
+C:\Users\LAB\Documents\Projects\PACI\PACI\obj\Debug\PACI.pdb
